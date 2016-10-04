@@ -1,5 +1,5 @@
 var $forum, $startCount, $results;
-var key = 'XrkXWYcSYFsQC74AMA9J37tNXuWbw0PwRl2DZSx3LHfu3pMJMio8Gts9qUAMBAV5';
+var key = 'UYRWyd72imjDxwpOs2Yf9b7JNY6456RRDuwqFH76HVfjie1T8Q5ogq6sRs97eDsS';
 
 $(document).ready(function() {
 
